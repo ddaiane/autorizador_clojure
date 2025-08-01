@@ -5,4 +5,4 @@
 ;; porém vou implementar a camada apenas para exercitar a implementaçao da arquitetura
 
 ;; esse model e wire de result seria o schema de saída do domínio e da funçao do diplomat, 
-;; portanto ele só existe na direçao model->wire-out
+;; portanto ele só existe na direçao model->wire-out (e chama o adapter de account na direçao model->wire-out)
