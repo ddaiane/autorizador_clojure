@@ -5,3 +5,7 @@
 (deftest a-test
   (testing "FIXME, I fail."
     (is (= 0 1))))
+
+
+
+;; replicar a estrutura de pastas e arquivos de src aqui com cada namespace de src tendo um namespace com testes aqui
